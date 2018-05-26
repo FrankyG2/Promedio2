@@ -1,0 +1,7 @@
+C:\Users\a16e203\Desktop\FranciscoBravo\FranciscoBravo\obj\Debug\FranciscoBravo.csprojResolveAssemblyReference.cache
+C:\Users\a16e203\Desktop\FranciscoBravo\FranciscoBravo\obj\Debug\FranciscoBravo.csproj.CoreCompileInputs.cache
+C:\Users\a16e203\Desktop\FranciscoBravo\FranciscoBravo\obj\Debug\FranciscoBravo.exe
+C:\Users\a16e203\Desktop\FranciscoBravo\FranciscoBravo\obj\Debug\FranciscoBravo.pdb
+C:\Users\a16e203\Desktop\FranciscoBravo.exe.config
+C:\Users\a16e203\Desktop\FranciscoBravo.exe
+C:\Users\a16e203\Desktop\FranciscoBravo.pdb
